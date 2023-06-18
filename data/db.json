@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Buy coffee and tea",
+      "deadline": "I`m starving",
+      "completed": false
+    },
+    {
+      "title": "Buy car",
+      "deadline": "1 mothns",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "title": "Swimming",
+      "deadline": "One week",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "title": "Buy apartment",
+      "deadline": "Now",
+      "completed": false,
+      "id": 9
+    }
+  ]
+}
